@@ -59,6 +59,6 @@ The frontend communicates with the backend API to perform the following actions:
 Make sure the backend API is running before launching the Flutter app.
 
 ## Additional Notes
-- Ensure the backend API is running on `http://localhost:5000` or the configured URL.
+- Ensure the backend API is running on `http://localhost:3000` or the configured URL.
 - Use either **Provider** or **Bloc** for state management.
 - The app handles API errors and shows appropriate messages to users.
